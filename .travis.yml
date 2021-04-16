@@ -1,4 +1,5 @@
 language: java
 jdk:
-  - java-8-openjdk-amd64
+  - openjdk-8-jre
+#  - java-8-openjdk-amd64
 #  - oraclejdk8
